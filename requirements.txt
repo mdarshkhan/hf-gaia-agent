@@ -1,0 +1,6 @@
+smolagents
+requests
+gradio
+openai
+transformers
+huggingface_hub
